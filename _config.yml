@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Canons Lab"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Canons Lab"
 description              : &description "personal description"
 url                      : https://a1romero.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/trywebsite" # the subpath of your site, e.g. "/blog"
@@ -22,11 +22,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "logo-reformatted.png"
-  name             : "Your Sidebar Name"
+  name             : "Canons Lab"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Williamsburg"
+  employer         : "William and Mary"
   uri              : # URL
   email            : "none@example.org" 
 
